@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 290" width="640" height="290" role="img" aria-label="Ilustração de paisagem de gramado">
+ <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#eee5fa"/><stop offset="1" stop-color="#bcd9dd"/></linearGradient></defs>
+ <rect width="640" height="290" fill="url(#sky)"/><circle cx="489" cy="62" r="40" fill="#fff6ce"/>
+ <path d="M0 186 108 97 210 190 307 97 436 178 533 96 640 187v103H0Z" fill="#a2aec4"/>
+ <path d="M0 210 72 147 168 207 288 148 411 220 503 164 640 221v69H0Z" fill="#698b79"/>
+ <path d="M0 235Q120 209 244 233T489 222Q563 210 640 232v58H0Z" fill="#4e806e"/>
+ <path d="M257 173 343 108 426 173Z" fill="#704c67"/><rect x="274" y="166" width="137" height="76" rx="3" fill="#f4e4d6"/>
+ <path d="M254 178 345 111 430 178" fill="none" stroke="#62405d" stroke-width="11" stroke-linejoin="round"/>
+ <rect x="301" y="185" width="31" height="24" rx="3" fill="#9fc5c8"/><rect x="354" y="184" width="32" height="25" rx="3" fill="#9fc5c8"/>
+ <rect x="332" y="208" width="26" height="34" fill="#735d6d"/>
+ <g fill="#2c5e56"><path d="m73 95-35 75h70Z"/><path d="m73 73-29 70h58Z"/><rect x="68" y="161" width="10" height="73" fill="#625047"/>
+ <path d="m162 115-31 69h62Z"/><path d="m162 90-25 70h50Z"/><rect x="156" y="177" width="10" height="64" fill="#625047"/>
+ <path d="m551 118-36 74h72Z"/><path d="m551 87-29 78h58Z"/><rect x="545" y="183" width="11" height="65" fill="#625047"/></g>
+ <path d="M0 260Q126 246 267 264t373-4" fill="none" stroke="#9bbd95" stroke-width="8"/>
+ </svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 290" width="640" height="290" role="img" aria-label="Ilustração de paisagem de salvador">
+ <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f7dded"/><stop offset="1" stop-color="#ffdcb6"/></linearGradient></defs>
+ <rect width="640" height="290" fill="url(#sky)"/><circle cx="510" cy="66" r="46" fill="#ffe9a0"/>
+ <path d="M0 220c173-11 281-28 383-9s180 15 257 1v78H0Z" fill="#93c7cf"/>
+ <path d="M0 240q125-8 246 0t394-5" fill="none" stroke="#eefbfa" stroke-width="5" opacity=".8"/>
+ <path d="M43 113h86v113H43Z" fill="#e8b1c6"/><path d="M37 113 85 78l51 35Z" fill="#ab6c8c"/>
+ <path d="M143 97h93v128h-93Z" fill="#ffdfad"/><path d="M138 98 188 66l53 32Z" fill="#b86c67"/>
+ <path d="M252 128h92v97h-92Z" fill="#c7c0d9"/><path d="M247 129 299 89l51 40Z" fill="#635b88"/>
+ <path d="M360 106h99v116h-99Z" fill="#eec7a9"/><path d="M355 108 410 76l54 32Z" fill="#985e70"/>
+ <g fill="#6c6c89"><rect x="62" y="145" width="21" height="29" rx="9"/><rect x="97" y="145" width="21" height="29" rx="9"/>
+ <rect x="161" y="130" width="23" height="35" rx="9"/><rect x="197" y="130" width="23" height="35" rx="9"/>
+ <rect x="271" y="157" width="22" height="29" rx="9"/><rect x="307" y="157" width="22" height="29" rx="9"/>
+ <rect x="380" y="139" width="22" height="29" rx="9"/><rect x="420" y="139" width="22" height="29" rx="9"/></g>
+ <g fill="#8f6579"><rect x="74" y="188" width="27" height="38" rx="10"/><rect x="180" y="181" width="29" height="44" rx="10"/><rect x="293" y="188" width="24" height="37" rx="10"/><rect x="401" y="181" width="26" height="42" rx="10"/></g>
+ <path d="M0 228h466" stroke="#f9e5cc" stroke-width="9"/>
+ </svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 290" width="640" height="290" role="img" aria-label="Ilustração de paisagem de lisboa">
+ <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e1d4f8"/><stop offset="1" stop-color="#fdcdba"/></linearGradient></defs>
+ <rect width="640" height="290" fill="url(#sky)"/><circle cx="522" cy="58" r="39" fill="#ffe4af"/>
+ <path d="M0 202 140 171 251 200 370 150 499 189 640 159v131H0Z" fill="#b2b1c6"/>
+ <path d="M0 221 125 204 220 220 336 190 464 211 640 188v102H0Z" fill="#8e8aa8"/>
+ <path d="M39 91h106v136H39Z" fill="#e9a7a9"/><path d="M34 93 91 54l60 39Z" fill="#8b607a"/>
+ <path d="M171 110h88v117h-88Z" fill="#f8dbaa"/><path d="M167 112 215 77l50 35Z" fill="#b77878"/>
+ <path d="M275 92h103v135H275Z" fill="#e9c1d5"/><path d="M271 94 325 61l58 33Z" fill="#95728d"/>
+ <g fill="#786b8d"><rect x="60" y="127" width="20" height="31" rx="9"/><rect x="101" y="127" width="20" height="31" rx="9"/>
+ <rect x="187" y="145" width="18" height="29" rx="9"/><rect x="226" y="145" width="18" height="29" rx="9"/>
+ <rect x="295" y="122" width="22" height="31" rx="9"/><rect x="337" y="122" width="22" height="31" rx="9"/></g>
+ <path d="M0 244c124-12 220-11 342 0 129 12 218 11 298-11v57H0Z" fill="#7d8099"/>
+ <g transform="translate(405 185)"><rect x="0" y="20" width="156" height="55" rx="12" fill="#f2cb5d" stroke="#684d6b" stroke-width="5"/>
+ <path d="M14 20q55-46 128 0" fill="#f2cb5d" stroke="#684d6b" stroke-width="5"/>
+ <rect x="19" y="23" width="44" height="27" rx="3" fill="#9bd0d0"/><rect x="81" y="23" width="48" height="27" rx="3" fill="#9bd0d0"/>
+ <circle cx="35" cy="76" r="11" fill="#514960"/><circle cx="124" cy="76" r="11" fill="#514960"/>
+ <path d="M76 26v46" stroke="#b98c54" stroke-width="5"/></g>
+ </svg>

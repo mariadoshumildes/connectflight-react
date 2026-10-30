@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 290" width="640" height="290" role="img" aria-label="Ilustração de paisagem de rio">
+ <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e6d7fc"/><stop offset="1" stop-color="#a9d8e7"/></linearGradient><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#5ca7cc"/><stop offset="1" stop-color="#77d1d7"/></linearGradient></defs>
+ <rect width="640" height="290" fill="url(#sky)"/><circle cx="518" cy="69" r="42" fill="#fff4c4" opacity=".85"/>
+ <path d="M0 189 80 108 160 181 226 92 333 198 410 128 519 198 640 137v153H0Z" fill="#a4accd"/>
+ <path d="M0 210 70 158 120 197 181 114 236 210 311 177 380 215 464 156 538 209 640 180v110H0Z" fill="#637696"/>
+ <path d="M0 215C122 200 215 239 341 217c118-17 206-24 299-9v82H0Z" fill="url(#sea)"/>
+ <path d="M0 242C106 224 186 244 300 241c128-3 240-10 340 6" fill="none" stroke="#d5f7f5" stroke-width="5" opacity=".7"/>
+ <path d="M145 176c-13-21-20-62 4-86 28 33 27 64 18 86Z" fill="#4c536e"/><path d="M153 89h5v42h-5Z" fill="#e9d9ff"/><path d="M146 103h20m-10 13-17 7m17-7 17 7" fill="none" stroke="#e9d9ff" stroke-width="5" stroke-linecap="round"/>
+ <path d="M359 70C380 80 393 82 416 71" stroke="#5e6788" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <path d="M0 258c75-14 147-17 206-1" stroke="#e7f7e8" stroke-width="7" opacity=".55" fill="none"/>
+ </svg>
